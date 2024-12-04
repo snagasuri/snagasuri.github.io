@@ -1,1 +1,2 @@
-# snagasuri.github.io
+# hi
+![My Image](picture.jpg)
